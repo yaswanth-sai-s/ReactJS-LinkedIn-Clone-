@@ -7,7 +7,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/totalitycorp-frontend-challenge">
         <Routes>
           <Route exact path="/" element={<Login />}/>
           <Route path="/home" element={<><Home /><Header/></>}/>
