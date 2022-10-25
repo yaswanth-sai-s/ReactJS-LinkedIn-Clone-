@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.af1b0b07.css",
-    "main.js": "/static/js/main.e25f4e0d.js",
-    "index.html": "/index.html",
-    "main.af1b0b07.css.map": "/static/css/main.af1b0b07.css.map",
-    "main.e25f4e0d.js.map": "/static/js/main.e25f4e0d.js.map"
+    "main.css": "/totalitycorp-frontend-challenge/static/css/main.af1b0b07.css",
+    "main.js": "/totalitycorp-frontend-challenge/static/js/main.715e68aa.js",
+    "index.html": "/totalitycorp-frontend-challenge/index.html",
+    "main.af1b0b07.css.map": "/totalitycorp-frontend-challenge/static/css/main.af1b0b07.css.map",
+    "main.715e68aa.js.map": "/totalitycorp-frontend-challenge/static/js/main.715e68aa.js.map"
   },
   "entrypoints": [
     "static/css/main.af1b0b07.css",
-    "static/js/main.e25f4e0d.js"
+    "static/js/main.715e68aa.js"
   ]
 }
